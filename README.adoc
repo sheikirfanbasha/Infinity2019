@@ -81,6 +81,13 @@ https://natural-language-understanding-demo.ng.bluemix.net/?cm_mc_uid=2186158249
 https://docs.microsoft.com/en-in/azure/cognitive-services/text-analytics/
 
 
-=== Email Power Analysis
+=== References
+
+Text Analysis
+https://monkeylearn.com/text-analysis/
+
+Text Visualization
+https://link.springer.com/article/10.1007/s11042-019-7541-4
+
 
 ==== Description
